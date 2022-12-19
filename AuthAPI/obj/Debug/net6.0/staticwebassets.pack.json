@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\backup141222\\Sknowing\\AuthAPI\\AuthAPI\\wwwroot\\EmailTemplate\\MailTemplate.html",
+      "PackagePath": "staticwebassets\\EmailTemplate\\MailTemplate.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.AuthAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.AuthAPI.props",
+      "PackagePath": "build\\AuthAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AuthAPI.props",
+      "PackagePath": "buildMultiTargeting\\AuthAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.AuthAPI.props",
+      "PackagePath": "buildTransitive\\AuthAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

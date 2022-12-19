@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "Fcsn0JuQ+1CSMZ+YTcwb/K0NDz6jkveU81qtu2tWI+Q=",
+  "Source": "AuthAPI",
+  "BasePath": "_content/AuthAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AuthAPI\\wwwroot",
+      "Source": "AuthAPI",
+      "ContentRoot": "G:\\backup141222\\Sknowing\\AuthAPI\\AuthAPI\\wwwroot\\",
+      "BasePath": "_content/AuthAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "G:\\backup141222\\Sknowing\\AuthAPI\\AuthAPI\\wwwroot\\EmailTemplate\\MailTemplate.html",
+      "SourceId": "AuthAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\backup141222\\Sknowing\\AuthAPI\\AuthAPI\\wwwroot\\",
+      "BasePath": "_content/AuthAPI",
+      "RelativePath": "EmailTemplate/MailTemplate.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\EmailTemplate\\MailTemplate.html"
+    }
+  ]
+}
